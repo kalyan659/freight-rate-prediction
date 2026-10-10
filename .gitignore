@@ -1,5 +1,4 @@
-# Assessment data is provided by Spotter; not committed
-data/*.csv
+
 inputs_reference/
 
 # Model binary (rebuilt by src/train.py)
